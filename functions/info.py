@@ -30,11 +30,12 @@ class AnimeInfo:
         self.CAPTION = """
 **{}
 ━━━━━━━━━━━━━━━
-‣ Language:** `Japanese [ESub]`
-**‣ Quality:** `480p|720p|1080p`
-**‣ Season:** `{}`
-**‣ Episode:** `{}`
+‣ ➪Lᴀɴɢᴜᴀɢᴇ:** `Jᴀᴘᴀɴᴇsᴇ & Eɴɢʟɪsʜ Sᴜʙ`
+**➪Qᴜᴀʟɪᴛʏ:** `480ᴘ|720ᴘ|1080ᴘ`
+**➪Sᴇᴀsᴏɴ:** `{}`
+**➪Eᴘɪsᴏᴅᴇ:** `{}`
 **━━━━━━━━━━━━━━━**
+☏ **Pᴏᴡᴇʀᴅ Bʏ :- ** `@AɴɪEʟɪᴛᴇEɴɢʟɪsʜ ☏`
 """
         self.proper_name = self.get_proper_name_for_func(name)
         self.name = name
